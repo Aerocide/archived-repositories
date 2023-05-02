@@ -1,1 +1,0 @@
- This is a repository made to store all my projects from Nov 14, 2022 to Dec 10, 2022, most of them are simple bare websites that I made when I was learning HTML or repositories linked to the past Navpedia. 
